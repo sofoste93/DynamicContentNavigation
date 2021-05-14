@@ -7,6 +7,7 @@
         if (!$page){
             redirect_to(url_for('/index.php'));
         }
+        $subject_id = $page['subject_id']; // added
     } else {
 
         // nothing selected; show the homepage
@@ -14,7 +15,7 @@
 
 
 ?>
-?>
+
 <?php include(SHARED_PATH . '/public_header.php'); ?>
 
 <div id="main">
