@@ -17,4 +17,13 @@ Co-@Author
 > - Collapsing navigation
 > 
 
-
+# About collapsing navigation
+>
+> - Only list pages for the currently selected subject
+>
+> - Each subject name is a link 
+>
+> - Clicking shows its pages; hide other
+>
+> - Show content for the first page under the subject 
+> 
