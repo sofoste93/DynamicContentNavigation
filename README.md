@@ -1,8 +1,7 @@
 # DynamicContentNavigation
 
-Co-@Author
+Co-author
 - Stephane Sob F
-- sofoste93
 
 # Building Dynamic Content Navigation with PHP and MySQL
 >
@@ -27,3 +26,9 @@ Co-@Author
 >
 > - Show content for the first page under the subject 
 > 
+
+# Contribution
+
+- Keving Skoglung
+- Stephane Sob F
+- Lynda.com
