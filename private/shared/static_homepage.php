@@ -8,7 +8,7 @@
 
   <div id="service-blocks">
     <div class="service">
-      <img src="images/homepage_assets/family_buying_home_L30707.jpg" width="250" height="166" alt="Family in front of sold home" />
+      <img src="/images/homepage_assets/family_buying_home_L30707.jpg" width="250" height="166" alt="Family in front of sold home" />
       <h1>Buying a home?</h1>
       <p>There's no place like home, and there's no home loan like Globe's.</p>
       <p><a href="#" class="learnmore">Learn More...</a> </p>
